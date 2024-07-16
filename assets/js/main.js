@@ -6,7 +6,7 @@ function changetitle() {
     if(interval_no % 2 == 0)
         document.title = "Contact Me!";
     else
-        document.title = "Raynal | Java developer";
+        document.title = "Ganesh | Software Engineer";
 
     interval_no++;
 }
