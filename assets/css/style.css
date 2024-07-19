@@ -749,6 +749,7 @@ img {
 .portfolio__img {
     width: 100%;
     transition: .4s;
+    height: 100%;
 }
 
 .portfolio__data {
@@ -781,7 +782,7 @@ img {
 .portfolio__button-wrapper {
     display: grid;
     justify-items: center;
-    grid-template-columns: 30% 10% 20% 10% 30%;
+    grid-template-columns: 45% 10% 20% 10% 30%;
     grid-template-rows: 60% 15% 25%;
     margin-top: auto;
     margin-bottom: 0.5rem;
